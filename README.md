@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HichamSlama
 - 👀 I’m interested in artificial intelligence
 - 🌱 I’m currently learning PROGRAMING WEB
-- 💞️ I’m looking to collaborate on learning HTML CSS JAVASRIPT PHP
+- 💞️ I’m looking to collaborate on learning HTML CSS JAVASCRIPT PHP
 - 📫 You can reach me in email "hichamslama2020@gmail.com"
 
 <!---
